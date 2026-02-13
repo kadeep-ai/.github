@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="../assets/kadeep-logo.jpg" alt="Kadeep Technologies Logo" width="400"/>
+  <img src="../assets/kadeep-logo.jpg" alt="Kadeep Technologies Logo" style="max-width: 500px; width: 100%;" />
 </p>
 
 
