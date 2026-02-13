@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="assets/kadeep logo.jpg" alt="Kadeep Technologies Logo" width="200"/>
+</p>
+
+
 <h1 align="center">Kadeep Technologies</h1>
 <h3 align="center">Intelligent Testing. Predictable Releases.</h3>
 
