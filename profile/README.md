@@ -13,7 +13,7 @@ We build software that replaces complexity with intelligence.
 
 ---
 
-## 🚀 About Kadeep
+##  About Kadeep
 
 At **Kadeep Technologies**, we design and develop AI-powered products, platforms, and business systems that help companies move faster, operate smarter, and scale effortlessly.
 
@@ -31,7 +31,7 @@ If it’s repetitive, manual, or broken — we automate it.
 
 ---
 
-## 🧠 What We Build
+##  What We Build
 
 - AI-powered Testing Platforms  
 - Intelligent Automation Systems  
@@ -41,7 +41,7 @@ If it’s repetitive, manual, or broken — we automate it.
 
 ---
 
-## 🛠️ Core Technologies
+##  Core Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,java,python,django,mysql,postgres,mongodb,docker,aws,git,selenium" height="60" />
