@@ -39,7 +39,7 @@ Manual regression wastes sprints. Localization breaks silently. Accessibility sl
 Kadeep runs your entire QA operation — functional testing, localization, accessibility, and release intelligence — with AI agents that work 24/7, across every product, every locale, every release.
 
 > *"KaDeep helped us move from brittle automations to reliable agents. We finally have confidence in execution quality."*
-> — **Summit**, Product Manager, Tepla
+> — **Summit**, Product Manager, Setu
 
 <br/>
 
