@@ -40,11 +40,6 @@ It is a chat-first QA agent with its own runtimes — Playwright in the browser,
 
 **Test management**, **GTW** (localization QA), and **Axco** (accessibility) are modules in that same studio — not separate products, not separate logins.
 
-> *“KaDeep helped us move from brittle automations to reliable agents. We finally have confidence in execution quality, predictable behavior, and clear visibility into why an agent did what it did.”*
-> — **Summit**, Product Manager, Tepla
-
-> *“Testing agent workflows used to be guesswork. KaDeep gave us structured intent, traceable actions, and consistent outcomes.”*
-> — **Anand Vasist**, Product Owner, Zilfo
 
 ---
 
