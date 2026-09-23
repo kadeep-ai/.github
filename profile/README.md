@@ -1,20 +1,24 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER — dark/light adaptive -->
+<!-- ANIMATED WAVE HEADER — dark / light adaptive -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3d62&height=220&section=header&text=Kadeep%20Technologies&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Autonomous%20QA%20Infrastructure%20for%20Modern%20Software%20Teams&descAlignY=56&descSize=17&descColor=7ec8e3">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e6f2fa,50:cfe8f7,100:a9d6ef&height=220&section=header&text=Kadeep%20Technologies&fontSize=52&fontColor=0a3d62&animation=fadeIn&fontAlignY=38&desc=Autonomous%20QA%20Infrastructure%20for%20Modern%20Software%20Teams&descAlignY=56&descSize=17&descColor=1a6591">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3d62&height=220&section=header&text=Kadeep%20Technologies&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Autonomous%20QA%20Infrastructure%20for%20Modern%20Software%20Teams&descAlignY=56&descSize=17&descColor=7ec8e3" width="100%" alt="Kadeep Technologies — Autonomous QA Infrastructure for Modern Software Teams">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3d62&height=220&section=header&text=Kadeep%20Technologies&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20QA%20Infrastructure%20%C2%B7%20Led%20by%20Test%20Studios&descAlignY=56&descSize=17&descColor=7ec8e3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fc,50:b8d9ef,100:0a3d62&height=220&section=header&text=Kadeep%20Technologies&fontSize=52&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=AI-Native%20QA%20Infrastructure%20%C2%B7%20Led%20by%20Test%20Studios&descAlignY=56&descSize=17&descColor=0a3d62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0a3d62&height=220&section=header&text=Kadeep%20Technologies&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Native%20QA%20Infrastructure%20%C2%B7%20Led%20by%20Test%20Studios&descAlignY=56&descSize=17&descColor=7ec8e3" alt="Kadeep Technologies — AI-Native QA Infrastructure, led by Test Studios" width="100%" />
 </picture>
 
-<!-- ANIMATED TYPING TAGLINE — Test Studios leads -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&multiline=false&width=750&height=48&lines=Test+Studios%3A+Record.+Replay.+Ship.+%F0%9F%8E%AC;Zero-Code+Browser+Test+Automation+%E2%9A%A1;Self-Healing+Tests+with+Sayo+AI+%F0%9F%A4%96;Plus%3A+Test+Management+%2B+Localization+%2B+Accessibility+QA;If+it%27s+repetitive+or+broken+%E2%80%94+we+automate+it" alt="Typing tagline: Test Studios — record, replay, ship" />
+<!-- ANIMATED TYPING TAGLINE — dark / light adaptive -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&multiline=false&width=780&height=48&lines=Test+Studios+%E2%80%94+Chat-First+QA+Agent+for+Web+%26+Mobile+%F0%9F%A7%AA;Explore%2C+flow%2C+run%2C+and+file+issues+from+one+conversation+%F0%9F%92%AC;Agentic+Localization+QA+across+50%2B+Locales+%F0%9F%8C%90;Automated+WCAG+Accessibility+Compliance+%E2%99%BF;If+it%27s+repetitive+or+broken+%E2%80%94+we+automate+it+%E2%9A%A1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=0A3D62&center=true&vCenter=true&multiline=false&width=780&height=48&lines=Test+Studios+%E2%80%94+Chat-First+QA+Agent+for+Web+%26+Mobile+%F0%9F%A7%AA;Explore%2C+flow%2C+run%2C+and+file+issues+from+one+conversation+%F0%9F%92%AC;Agentic+Localization+QA+across+50%2B+Locales+%F0%9F%8C%90;Automated+WCAG+Accessibility+Compliance+%E2%99%BF;If+it%27s+repetitive+or+broken+%E2%80%94+we+automate+it+%E2%9A%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&multiline=false&width=780&height=48&lines=Test+Studios+%E2%80%94+Chat-First+QA+Agent+for+Web+%26+Mobile+%F0%9F%A7%AA;Explore%2C+flow%2C+run%2C+and+file+issues+from+one+conversation+%F0%9F%92%AC;Agentic+Localization+QA+across+50%2B+Locales+%F0%9F%8C%90;Automated+WCAG+Accessibility+Compliance+%E2%99%BF;If+it%27s+repetitive+or+broken+%E2%80%94+we+automate+it+%E2%9A%A1" alt="Typing tagline: Test Studios leads Kadeep's QA product line" />
+</picture>
 
 <br/>
 
 <!-- BADGES -->
 [![Website](https://img.shields.io/badge/🌐_Website-kadeep.ai-0a3d62?style=for-the-badge&logoColor=white)](https://kadeep.ai)
-[![Test Studios](https://img.shields.io/badge/🎬_Test_Studios-app.kadeep.ai-e74c3c?style=for-the-badge)](https://app.kadeep.ai)
+[![Test Studios](https://img.shields.io/badge/🧪_Flagship-Test_Studios-1a6591?style=for-the-badge)](https://teststudios.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KaDeep_AI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kadeep-ai)
 [![Demo](https://img.shields.io/badge/📩_Book_a_Demo-Get_Early_Access-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
 
@@ -32,11 +36,13 @@
 
 ## 🧠 About Kadeep
 
-At **Kadeep Technologies**, we design and develop AI-powered QA products and automation platforms that help engineering teams **move faster, release confidently, and scale effortlessly**.
+<img align="right" src="https://framerusercontent.com/images/GkQ1ampmtGnllMW64dygUZ6lfzs.png" width="340" alt="Kadeep Technologies product visual" />
 
-Manual regression wastes sprints. Localization breaks silently. Accessibility slips until users complain. QA tools are scattered, fragile, and built for yesterday's workflows.
+At **Kadeep Technologies**, we build AI-native QA infrastructure so engineering teams **move faster, release confidently, and scale predictably**.
 
-**We built Kadeep because every QA tool we tried was either too manual or too brittle.**
+Manual regression eats sprints. Localization breaks silently. Accessibility slips until users complain. Most QA stacks are fragmented — a TMS here, a script runner there, a one-off a11y scan before launch.
+
+**Our flagship is [Test Studios](https://teststudios.ai)** — a chat-first QA agent with its own browser runtime and virtual mobile devices. Specialist products around it handle localization (GTW2), accessibility (Axco), and centralized test management (app.kadeep.ai).
 
 > *"KaDeep helped us move from brittle automations to reliable agents. We finally have confidence in execution quality."*
 > — **Summit**, Product Manager, Setu
@@ -45,49 +51,36 @@ Manual regression wastes sprints. Localization breaks silently. Accessibility sl
 
 ---
 
-<!-- ============================================= -->
-<!-- 🎬 FLAGSHIP: TEST STUDIOS -->
-<!-- ============================================= -->
-
-## 🎬 Test Studios — Our Flagship Product
+## 🧪 Flagship — [Test Studios](https://teststudios.ai)
 
 <div align="center">
 
-### *If you can use a website, you can automate tests for it.*
+### Chat-first QA agent for web & mobile
 
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
-![Category](https://img.shields.io/badge/Category-Zero_Code_Test_Automation-e74c3c?style=for-the-badge)
-![AI Agent](https://img.shields.io/badge/Powered_by-Sayo_AI-4FC3F7?style=for-the-badge)
+*Talk to a senior QA engineer. It explores your app, writes natural-language flows, runs them, files issues, and remembers what it learned.*
 
-**[🚀 Launch Test Studios →](https://app.kadeep.ai)**
+[![Open Test Studios](https://img.shields.io/badge/🚀_Open-teststudios.ai-0a3d62?style=for-the-badge)](https://teststudios.ai)
+[![Book a Demo](https://img.shields.io/badge/📩_Book_a_Demo-Talk_to_us-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
 
-</div>
+<br/>
 
-<!--
-  ⚠️ PLACEHOLDER NOTICE:
-  The feature list below carries over from the previous "KaDeep Studios" entry.
-  Confirm with real Test Studios copy — new features, integrations, screenshots,
-  and any metrics (e.g. "X tests automated", "Y% faster than Selenium") before
-  this goes live. Do not ship unverified claims.
--->
-
-Test Studios is record-and-replay browser automation, rebuilt as our core product. It records every action on your site and converts it into a structured, replayable, self-healing test — no engineering required.
-
-| Capability | What it does |
-|---|---|
-| 🎥 **Record & Replay** | Capture test flows by simply using your site — no scripting |
-| 🤖 **Sayo AI Self-Healing** | Selectors auto-repair when your UI changes, so tests don't break on every deploy |
-| ☁️ **Cross-Browser Cloud Execution** | Run suites across browsers and devices without managing infrastructure |
-| 🧩 **Zero Setup** | No Selenium/Playwright expertise, no grid to maintain |
-| 👥 **Built for Everyone** | PMs, QAs, and BAs can build and own automation — not just developers |
-| 🔁 **Full Regression Coverage** | Eliminates manual regression cycles entirely |
-
-<div align="center">
-
-<!-- 🖼️ PLACEHOLDER: insert a real product screenshot or GIF of Test Studios here -->
-<!-- <img src="LINK_TO_SCREENSHOT_OR_GIF" width="80%" alt="Test Studios recording a browser test"> -->
+![Category](https://img.shields.io/badge/Category-Chat--First_QA_Agent-0a3d62?style=flat-square)
+![Type](https://img.shields.io/badge/Type-SaaS_%2B_Desktop_%2B_Mobile-1a6591?style=flat-square)
+![Surfaces](https://img.shields.io/badge/Surfaces-Web_%7C_Desktop_%7C_Mobile-4FC3F7?style=flat-square&labelColor=0d1117)
+![Runtime](https://img.shields.io/badge/Browser-Playwright-2ea44f?style=flat-square)
+![Mobile](https://img.shields.io/badge/Mobile-Appetize_Devices-7ec8e3?style=flat-square&labelColor=0d2137)
+![MCP](https://img.shields.io/badge/MCP-Supported-success?style=flat-square)
 
 </div>
+
+<br/>
+
+| Agent | Execution | Memory & ops |
+|:---|:---|:---|
+| Chat-first senior-QA loop | Playwright browser sessions | Governed memory (app / you / team) |
+| Natural-language flows & suites | Virtual iOS / Android devices | Credentials in a separate vault |
+| Explores web apps or mobile builds | Runs, evidence, artifacts | Issues filed from the conversation |
+| Skills-based specialization | Live browser / device view | MCP tools for Cursor / Claude |
 
 ---
 
@@ -95,87 +88,101 @@ Test Studios is record-and-replay browser automation, rebuilt as our core produc
 
 ```mermaid
 graph TB
-    classDef flagship fill:#e74c3c,stroke:#ffdcdc,color:#ffffff,rx:10
-    classDef platform fill:#0a3d62,stroke:#4FC3F7,color:#ffffff,rx:8
-    classDef product fill:#1a1a2e,stroke:#4FC3F7,color:#e0e0e0,rx:8
-    classDef agent fill:#0d2137,stroke:#7ec8e3,color:#b0d4e8,rx:8
+    classDef platform fill:#0a3d62,stroke:#4FC3F7,color:#ffffff
+    classDef flagship fill:#0d2137,stroke:#4FC3F7,color:#ffffff
+    classDef support fill:#1a1a2e,stroke:#7ec8e3,color:#e0e0e0
+    classDef capability fill:#0d1117,stroke:#4FC3F7,color:#b0d4e8
 
-    K["🏢 Kadeep Technologies<br/>Autonomous QA Infrastructure"]:::platform
+    K["Kadeep Technologies<br/>AI-Native QA Infrastructure"]:::platform
 
-    K --> TS["🎬 Test Studios<br/>Flagship — Zero-Code Automation"]:::flagship
-    TS --> D1["Record & Replay"]:::agent
-    TS --> D2["Sayo AI Self-Healing"]:::agent
-    TS --> D3["Cross-Browser Cloud Execution"]:::agent
+    K --> TS["Test Studios<br/>Flagship · Chat-First QA Agent"]:::flagship
 
-    TS -. feeds results into .-> TM["🧪 app.kadeep.ai<br/>Test Management"]:::product
-    TS -. triggers .-> LQ["🌐 GTW2<br/>Localization QA"]:::product
-    TS -. triggers .-> AX["♿ Axco<br/>Accessibility Testing"]:::product
+    TS --> C1["Explore web & mobile"]:::capability
+    TS --> C2["Flows · suites · runs"]:::capability
+    TS --> C3["Issues · evidence · memory"]:::capability
 
-    TM --> A1["Go / No-Go Signals"]:::agent
-    LQ --> B1["50+ Locale Crawl"]:::agent
-    AX --> C1["149+ WCAG Checks"]:::agent
+    K --> TM["app.kadeep.ai<br/>Test Management"]:::support
+    K --> LQ["GTW2<br/>Localization QA"]:::support
+    K --> AX["Axco<br/>Accessibility"]:::support
+
+    TS -.->|specialist lanes| LQ
+    TS -.->|specialist lanes| AX
+    TS -.->|release signals| TM
 ```
 
 ---
 
-## 🧭 Which Product Should I Use?
+## 🧭 Which product should I use?
 
-| I need to... | Use |
-|---|---|
-| Automate browser tests with no code | 🎬 **Test Studios** |
-| Track test cases, runs, and release go/no-go signals | 🧪 app.kadeep.ai |
-| Catch broken translations or RTL layout bugs across locales | 🌐 GTW2 |
-| Monitor WCAG accessibility compliance every release | ♿ Axco |
-| Run one release pipeline that covers all of the above | ⚡ The full Kadeep platform (see pipeline below) |
+| If you need… | Use | Why |
+|:---|:---|:---|
+| Chat-driven exploratory + automated QA on web or mobile | **[Test Studios](https://teststudios.ai)** | Agent explores, writes flows, executes, and files issues in one conversation |
+| Central test cases, runs, coverage, go / no-go | **[app.kadeep.ai](https://app.kadeep.ai)** | AI-native test management and release signals |
+| Visual / localization QA across many locales | **[GTW2](https://gtw2.ai)** | Agentic crawl + visual reports across 50+ locales |
+| Continuous WCAG accessibility monitoring | **[Axco](https://accessibility.kadeep.ai)** | Ongoing a11y audits, health scores, sprint fix plans |
 
 ---
 
-## 🚀 Also in the Platform
+## 🧩 Specialist products
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧪 [app.kadeep.ai](https://app.kadeep.ai)
-**Test Management**
 
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Test_Management-0a3d62?style=flat-square)
 
-AI agents generate test cases, execute runs, log defects, and deliver release go/no-go signals.
+AI-assisted test management — generate cases, track runs, sync defects, surface go / no-go.
 
-- ✅ AI-generated test cases
-- ✅ Defect logging with Jira sync
-- ✅ Coverage dashboards
+- AI-generated test cases
+- Run tracking & coverage
+- Defect sync (e.g. Jira)
+- Release go / no-go signals
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 [GTW2](https://gtw2.ai)
-**Localization QA**
 
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![Locales](https://img.shields.io/badge/Locales-50%2B-0a3d62?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Localization_QA-0a3d62?style=flat-square)
 
-Crawls your live site across 50+ locales and generates full visual QA reports on every release.
+Agentic localization QA — crawl production across 50+ locales and ship visual QA reports.
 
-- ✅ RTL failure detection
-- ✅ Visual regression reports
-- ✅ Zero TMS integration required
+- 50+ locale crawl
+- Layout / missing-string checks
+- RTL failure detection
+- Per-release visual reports
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ♿ [Axco](https://accessibility.kadeep.ai)
-**Accessibility Testing**
 
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
-![WCAG](https://img.shields.io/badge/WCAG-2.1_%2F_2.2-0a3d62?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Accessibility-0a3d62?style=flat-square)
 
-Continuously monitors WCAG compliance across every deploy — not just at launch.
+Accessibility that audits itself every release — WCAG health, sprint plans, AI code diffs.
 
-- ✅ 149+ violations mapped to WCAG
-- ✅ P1/P2 sprint fix plans
-- ✅ AI-generated code diffs
+- WCAG 2.1 / 2.2 checks
+- Health score per release
+- P1 / P2 sprint fix plans
+- Jira / Linear export
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Platform
+
+![Type](https://img.shields.io/badge/Type-Ecosystem-0a3d62?style=flat-square)
+
+Test Studios is the primary surface. Specialists plug into the same QA story — functional, l10n, a11y, release ops.
+
+- Flagship: [teststudios.ai](https://teststudios.ai)
+- Company: [kadeep.ai](https://kadeep.ai)
+- Demo: [kadeep.ai/demo](https://kadeep.ai/demo)
+- Blog: [kadeep.ai/blog](https://kadeep.ai/blog)
 
 </td>
 </tr>
@@ -188,24 +195,23 @@ Continuously monitors WCAG compliance across every deploy — not just at launch
 ```mermaid
 sequenceDiagram
     autonumber
-    participant Dev as 👨‍💻 Dev Team
-    participant TS as 🎬 Test Studios
-    participant K as ⚡ Kadeep Platform
-    participant GTW2 as 🌐 GTW2 Agent
-    participant Axco as ♿ Axco Agent
-    participant Jira as 🎯 Jira
+    participant Dev as Dev Team
+    participant TS as Test Studios
+    participant GTW2 as GTW2
+    participant Axco as Axco
+    participant TMS as app.kadeep.ai
+    participant Jira as Jira
 
-    Dev->>TS: Push release / trigger pipeline
-    TS->>K: Run recorded regression suite (Sayo AI)
-    K->>GTW2: Crawl all locales (50+)
-    K->>Axco: Run WCAG audit across pages
+    Dev->>TS: Trigger QA / chat a release goal
+    TS->>TS: Explore · run flows · collect evidence
+    TS->>GTW2: Localization crawl when needed
+    TS->>Axco: WCAG audit when needed
+    TS->>TMS: Sync cases / runs / release signal
 
-    TS-->>K: Test results + defect list
-    GTW2-->>K: Localization visual report
-    Axco-->>K: Accessibility health score
-
-    K->>Jira: Sync defects automatically
-    K->>Dev: 🟢 Go / 🔴 No-Go release signal
+    GTW2-->>TS: Locale visual report
+    Axco-->>TS: Accessibility health score
+    TS->>Jira: File or sync issues
+    TS->>Dev: Go / No-Go with evidence
 ```
 
 ---
@@ -214,14 +220,14 @@ sequenceDiagram
 
 <div align="center">
 
-| 🔴 Without Kadeep | 🟢 With Kadeep |
+| Without Kadeep | With Kadeep |
 |:---|:---|
-| Automation requires Selenium/Playwright engineering skills | **Test Studios**: zero code, record & replay, self-healing |
-| Manual regression testing eats sprint cycles | Sayo AI automates full regression suites 24/7 |
-| Localization bugs silently reach end users | GTW2 audits every locale on every release automatically |
-| Accessibility checked once at launch — never again | Axco monitors WCAG compliance across every deploy |
-| QA tools are siloed and fragmented | One unified platform — testing, a11y, l10n, release ops |
-| Go/no-go is a gut call before release | AI agents deliver data-driven go/no-go signals |
+| Manual regression eats sprint cycles | **Test Studios** explores and runs flows from chat |
+| Scripts break; only engineers can maintain them | Natural-language flows + agent-driven execution |
+| Localization bugs reach users silently | **GTW2** audits locales on release |
+| Accessibility checked once at launch | **Axco** monitors WCAG across deploys |
+| QA tools are siloed | One ecosystem — flagship agent + specialist lanes |
+| Go / no-go is a gut call | Evidence-backed release signals via the platform |
 
 </div>
 
@@ -234,7 +240,7 @@ pie title QA Time Wasted Without Automation
     "Manual Regression Testing" : 38
     "Localization Bug Discovery Post-Launch" : 22
     "Accessibility Remediation After Release" : 18
-    "Broken Selector Maintenance" : 14
+    "Broken Selector / Script Maintenance" : 14
     "Release Coordination & Defect Tracking" : 8
 ```
 
@@ -250,6 +256,7 @@ pie title QA Time Wasted Without Automation
 ║     BUILD SMART.    SHIP CONFIDENTLY.    SCALE PREDICTABLY.  ║
 ║                                                              ║
 ║    Quality is not a checkpoint — it's a continuous system.   ║
+║         Test Studios is how that system starts.              ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -264,8 +271,9 @@ pie title QA Time Wasted Without Automation
 
 | | Link |
 |:---:|:---|
-| 🎬 | **Test Studios (Flagship):** [app.kadeep.ai](https://app.kadeep.ai) |
-| 🌐 | **Main Platform:** [kadeep.ai](https://kadeep.ai) |
+| 🧪 | **Test Studios (flagship):** [teststudios.ai](https://teststudios.ai) |
+| 🌐 | **Company:** [kadeep.ai](https://kadeep.ai) |
+| 📋 | **Test Management:** [app.kadeep.ai](https://app.kadeep.ai) |
 | 🌍 | **Localization QA:** [gtw2.ai](https://gtw2.ai) |
 | ♿ | **Accessibility:** [accessibility.kadeep.ai](https://accessibility.kadeep.ai) |
 | 💼 | **LinkedIn:** [linkedin.com/company/kadeep-ai](https://www.linkedin.com/company/kadeep-ai) |
@@ -274,8 +282,8 @@ pie title QA Time Wasted Without Automation
 
 <br/>
 
-[![Try Test Studios](https://img.shields.io/badge/🎬_Try_Test_Studios-app.kadeep.ai_→-e74c3c?style=for-the-badge)](https://app.kadeep.ai)
-[![Book a Demo](https://img.shields.io/badge/📩_Book_a_Demo-Get_Early_Access_→-0a3d62?style=for-the-badge)](https://kadeep.ai/demo)
+[![Book a Demo](https://img.shields.io/badge/📩_Book_a_Demo-Get_Early_Access_→-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
+[![Open Test Studios](https://img.shields.io/badge/🚀_Open_Test_Studios-teststudios.ai_→-0a3d62?style=for-the-badge)](https://teststudios.ai)
 
 </div>
 
@@ -284,9 +292,9 @@ pie title QA Time Wasted Without Automation
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0d1117&height=120&section=footer&fontSize=14&fontColor=7ec8e3&text=Kadeep%20Technologies%20©%202025–2026&fontAlignY=65">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a9d6ef,50:cfe8f7,100:e6f2fa&height=120&section=footer&fontSize=14&fontColor=0a3d62&text=Kadeep%20Technologies%20©%202025–2026&fontAlignY=65">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0d1117&height=120&section=footer&fontSize=14&fontColor=7ec8e3&text=Kadeep%20Technologies%20©%202025–2026&fontAlignY=65" width="100%" alt="Kadeep Technologies footer">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0d1117&height=120&section=footer&fontSize=14&fontColor=7ec8e3&text=Kadeep%20Technologies%20%C2%A9%202025%E2%80%932026&fontAlignY=65" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:b8d9ef,100:e8f4fc&height=120&section=footer&fontSize=14&fontColor=0d1117&text=Kadeep%20Technologies%20%C2%A9%202025%E2%80%932026&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0d1117&height=120&section=footer&fontSize=14&fontColor=7ec8e3&text=Kadeep%20Technologies%20%C2%A9%202025%E2%80%932026&fontAlignY=65" alt="Kadeep Technologies footer" width="100%" />
 </picture>
 
 </div>
