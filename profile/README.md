@@ -1,38 +1,26 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a3d62,100:1a6591&height=120&section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:d6eaf8,50:7eb8d9,100:0a3d62&height=120&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a3d62,100:1a6591&height=120&section=header" alt="Kadeep Technologies banner" width="100%" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kadeep-ai/.github/main/profile/ks-logo-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kadeep-ai/.github/main/profile/ks-logo-light.svg" />
-  <img src="ks-logo-dark.svg" alt="Test Studios logo" width="96" height="96" />
+  <img src="ks-logo-dark.svg" alt="Test Studios logo" width="72" height="72" />
 </picture>
 
 # Kadeep Technologies
 
-### [Test Studios](https://studio.kadeep.ai) — *Release-ready, on demand*
+**[Test Studios](https://studio.kadeep.ai)** · *Release-ready, on demand*
 
 Talk to a senior QA engineer. It explores your product, writes the flows, runs them on web / mobile / desktop, files the issues, and tells you whether you can ship.
 
-<br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=740&height=40&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=0A3D62&center=true&vCenter=true&width=740&height=40&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=740&height=40&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" alt="Test Studios typing tagline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=740&height=32&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=1100&color=0A3D62&center=true&vCenter=true&width=740&height=32&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=740&height=32&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" alt="Test Studios typing tagline" />
 </picture>
-
-<br/>
 
 [![Open Test Studios](https://img.shields.io/badge/Open_product-studio.kadeep.ai-0a3d62?style=for-the-badge)](https://studio.kadeep.ai)
 [![Company](https://img.shields.io/badge/Company-kadeep.ai-1a6591?style=for-the-badge)](https://kadeep.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KaDeep_AI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kadeep-ai)
-
-<br/>
 
 ![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 ![Founded](https://img.shields.io/badge/Founded-2025-0a3d62?style=flat-square)
@@ -289,22 +277,8 @@ flowchart LR
 | **LinkedIn** | [KaDeep AI](https://www.linkedin.com/company/kadeep-ai) |
 | **HQ** | Vikhroli West, Mumbai |
 
-<br/>
-
 [![Open Test Studios](https://img.shields.io/badge/Open-studio.kadeep.ai-0a3d62?style=for-the-badge)](https://studio.kadeep.ai)
 [![Company site](https://img.shields.io/badge/Company-kadeep.ai-1a6591?style=for-the-badge)](https://kadeep.ai)
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a6591,50:0a3d62,100:0d2137&height=90&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:7eb8d9,100:d6eaf8&height=90&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6591,50:0a3d62,100:0d2137&height=90&section=footer" alt="Kadeep Technologies footer" width="100%" />
-</picture>
 
 <sub>Kadeep Technologies · Test Studios · © 2025–2026 · Mumbai</sub>
 
