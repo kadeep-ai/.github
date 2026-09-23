@@ -1,174 +1,156 @@
 <div align="center">
 
-<!-- Wave without embedded title — text was clipping on capsule-render -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a3d62,100:1a6591&height=140&section=header" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:d6eaf8,50:7eb8d9,100:0a3d62&height=140&section=header" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a3d62,100:1a6591&height=140&section=header" alt="Kadeep Technologies banner" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a3d62,100:1a6591&height=120&section=header" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:d6eaf8,50:7eb8d9,100:0a3d62&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:0a3d62,100:1a6591&height=120&section=header" alt="Kadeep Technologies banner" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../assets/ks-logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="../assets/ks-logo-light.svg" />
+  <img src="../assets/ks-logo-dark.svg" alt="Test Studios mark" width="88" height="88" />
 </picture>
 
 # Kadeep Technologies
 
-**AI-native QA infrastructure** — led by **[Test Studios](https://teststudios.ai)**
+**[Test Studios](https://studio.kadeep.ai)** · *Release-ready, on demand*
+
+A chat-first QA agent for web, mobile, and desktop — with test management, localization, and accessibility in one studio.
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+agent+for+web+%26+mobile;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues;Specialist+lanes+for+l10n+%26+accessibility" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=0A3D62&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+agent+for+web+%26+mobile;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues;Specialist+lanes+for+l10n+%26+accessibility" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+agent+for+web+%26+mobile;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues;Specialist+lanes+for+l10n+%26+accessibility" alt="Kadeep product tagline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+for+web%2C+mobile%2C+and+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=0A3D62&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+for+web%2C+mobile%2C+and+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+for+web%2C+mobile%2C+and+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues" alt="Test Studios tagline" />
 </picture>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-kadeep.ai-0a3d62?style=for-the-badge)](https://kadeep.ai)
-[![Test Studios](https://img.shields.io/badge/Flagship-Test_Studios-1a6591?style=for-the-badge)](https://teststudios.ai)
-[![Demo](https://img.shields.io/badge/Book_Demo-Get_access-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
+[![Open Test Studios](https://img.shields.io/badge/Open-studio.kadeep.ai-0a3d62?style=for-the-badge)](https://studio.kadeep.ai)
+[![Website](https://img.shields.io/badge/Company-kadeep.ai-1a6591?style=for-the-badge)](https://kadeep.ai)
+[![Demo](https://img.shields.io/badge/Book_a_Demo-Get_access-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KaDeep_AI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kadeep-ai)
 
 <br/>
 
 ![Founded](https://img.shields.io/badge/Founded-2025-0a3d62?style=flat-square)
 ![HQ](https://img.shields.io/badge/HQ-Mumbai-0a3d62?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-QA_Infrastructure-1a6591?style=flat-square)
+![Product](https://img.shields.io/badge/Product-Test_Studios-1a6591?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI--native_QA-4FC3F7?style=flat-square&labelColor=0d2137)
 
 </div>
 
 ---
 
-## What we build
+## What Test Studios is
 
-Kadeep builds AI-native QA products for teams that ship continuously.
+Kadeep Technologies builds **one product**: [Test Studios](https://studio.kadeep.ai).
 
-**[Test Studios](https://teststudios.ai)** is the flagship — a chat-first QA agent with a real browser runtime and virtual mobile devices. Around it: test management, localization QA, and accessibility as specialist products.
+You talk to a senior QA engineer. It explores your web app, iOS / Android build, or desktop app; writes natural-language flows; runs them in a real browser or on a virtual device; files issues; and remembers what it learned — in governed memory (app / you / team) with credentials in a separate vault.
+
+**GTW** (localization), **Axco** (accessibility), and **test management** are modules in that same workspace — not separate products.
 
 > *“KaDeep helped us move from brittle automations to reliable agents. We finally have confidence in execution quality.”*
 > — **Summit**, Product Manager, Setu
 
 ---
 
-## Flagship — Test Studios
-
-<div align="center">
-
-### Chat-first QA agent for web & mobile
-
-Talk to a senior QA engineer. It explores your app, writes natural-language flows, runs them in a browser or on a virtual device, files issues, and remembers what it learned.
-
-<br/>
-
-[![Open Test Studios](https://img.shields.io/badge/Open-teststudios.ai-0a3d62?style=for-the-badge)](https://teststudios.ai)
-[![Book a Demo](https://img.shields.io/badge/Book_a_Demo-Talk_to_us-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
-
-<br/>
-
-![Category](https://img.shields.io/badge/Category-Chat--First_QA_Agent-0a3d62?style=flat-square)
-![Surfaces](https://img.shields.io/badge/Surfaces-Web_%7C_Desktop_%7C_Mobile-1a6591?style=flat-square)
-![Browser](https://img.shields.io/badge/Browser-Playwright-2ea44f?style=flat-square)
-![Mobile](https://img.shields.io/badge/Mobile-Appetize-4FC3F7?style=flat-square&labelColor=0d2137)
-![MCP](https://img.shields.io/badge/MCP-Supported-success?style=flat-square)
-
-</div>
-
-### Product model
-
-```mermaid
-flowchart LR
-    subgraph Client["Clients"]
-        W[Web]
-        D[Desktop]
-        M[Mobile]
-    end
-
-    subgraph TS["Test Studios"]
-        Chat[Chat agent]
-        Flows[Flows · suites · runs]
-        Mem[Memory · issues · evidence]
-    end
-
-    subgraph Runtime["Execution"]
-        PW[Playwright browser]
-        AP[Appetize iOS / Android]
-    end
-
-    W --> Chat
-    D --> Chat
-    M --> Chat
-    Chat --> Flows
-    Chat --> Mem
-    Flows --> PW
-    Flows --> AP
-```
-
-### Capabilities
-
-| Layer | What you get |
-|:---|:---|
-| **Agent** | Chat-first QA loop, skill-based specialization, natural-language flows |
-| **Execution** | Playwright sessions, Appetize virtual devices, live view + artifacts |
-| **Memory** | Governed layers (app / you / team), credentials in a separate vault |
-| **Ops** | Suites, runs, issues from the conversation, MCP for Cursor / Claude |
-
----
-
-## Platform map
+## Product map
 
 ```mermaid
 flowchart TB
-    K[Kadeep Technologies]
+  Kadeep[Kadeep Technologies]
+  TS[Test Studios]
 
-    K --> TS[Test Studios — flagship]
-    K --> TM[app.kadeep.ai — test management]
-    K --> LQ[GTW2 — localization QA]
-    K --> AX[Axco — accessibility]
+  Kadeep --> TS
 
-    TS --> Cap1[Explore web & mobile]
-    TS --> Cap2[Flows · suites · runs]
-    TS --> Cap3[Issues · evidence · memory]
+  TS --> Agent[Chat agent]
+  TS --> TM[Test Management]
+  TS --> GTW[GTW]
+  TS --> Axco[Axco]
+
+  Agent --> Web[Web · Playwright]
+  Agent --> Mobile[Mobile · Appetize]
+  Agent --> Desktop[Desktop worker]
+```
+
+One conversation. One runtime. One system of record.
+
+---
+
+## How a run works
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant Team
+    participant Agent as Chat agent
+    participant Runtime as Browser / device / desktop
+    participant Modules as GTW / Axco
+    participant TM as Test Management
+
+    Team->>Agent: State a release goal
+    Agent->>Runtime: Explore the product
+    Agent->>Agent: Author natural-language flows
+    Agent->>Runtime: Execute flows and collect evidence
+    Agent->>Modules: Localization or a11y when the goal needs it
+    Modules-->>Agent: Findings
+    Agent->>TM: File issues · update suites · readiness
+    TM-->>Team: Coverage, defects, go / no-go
 ```
 
 ---
 
-## Which product should I use?
-
-| Need | Product | Role |
-|:---|:---|:---|
-| Chat-driven exploratory + automated QA (web / mobile) | **[Test Studios](https://teststudios.ai)** | Flagship agent |
-| Central cases, runs, coverage, go / no-go | **[app.kadeep.ai](https://app.kadeep.ai)** | Test management |
-| Visual / localization QA across locales | **[GTW2](https://gtw2.ai)** | Localization specialist |
-| Continuous WCAG monitoring | **[Axco](https://accessibility.kadeep.ai)** | Accessibility specialist |
-
----
-
-## Specialist products
+## What’s inside
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [app.kadeep.ai](https://app.kadeep.ai)
+### Chat agent
 
-![Type](https://img.shields.io/badge/Test_Management-0a3d62?style=flat-square)
+The lead surface. Skills-based QA (smoke, regression, explore, mobile, desktop, and more). Live view of the browser or device. MCP for Cursor / Claude.
 
-AI-assisted cases, runs, defect sync, release go / no-go.
-
-</td>
-<td width="33%" valign="top">
-
-### [GTW2](https://gtw2.ai)
-
-![Type](https://img.shields.io/badge/Localization_QA-0a3d62?style=flat-square)
-
-Agentic crawl across 50+ locales with visual QA reports.
+- Natural-language flows and suites
+- Evidence, artifacts, and issue filing
+- Governed memory + credential vault
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [Axco](https://accessibility.kadeep.ai)
+### Test Management
 
-![Type](https://img.shields.io/badge/Accessibility-0a3d62?style=flat-square)
+Flows, suites, schedules, and hooks as first-class objects — plus a project release dashboard.
 
-WCAG 2.1 / 2.2 checks, health scores, sprint fix plans.
+- Execution, coverage, and defect ageing
+- Release readiness and gate checks
+- Export toward TestRail / Xray formats
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### GTW — localization
+
+Locale, language, RTL, and formatting QA from the same agent — on device and in product journeys.
+
+- Untranslated and truncated strings
+- RTL mirroring and layout collisions
+- Dates, currency, and number formats
+
+</td>
+<td width="50%" valign="top">
+
+### Axco — accessibility
+
+WCAG-oriented checks with axe, plus keyboard-only journeys on the real UI.
+
+- Rule-mapped defects with impact
+- Focus, labels, headings, and traps
+- Mobile hierarchy review when on-device
 
 </td>
 </tr>
@@ -176,34 +158,37 @@ WCAG 2.1 / 2.2 checks, health scores, sprint fix plans.
 
 ---
 
-## How a release run works
+## Workspace
 
-```mermaid
-sequenceDiagram
-    autonumber
-    participant Dev as Team
-    participant TS as Test Studios
-    participant Spec as GTW2 / Axco
-    participant Out as Issues / signals
+A tester **3-pane** layout: project and skills on the left, chat / plan in the middle, live runtime and evidence on the right. Managers get a QA release dashboard on the same project.
 
-    Dev->>TS: State a release goal in chat
-    TS->>TS: Explore · run flows · collect evidence
-    TS->>Spec: Call specialist lane when needed
-    Spec-->>TS: Locale / a11y report
-    TS->>Out: File issues · surface go / no-go
-    TS-->>Dev: Evidence-backed result
-```
+| Surface | What it is |
+|:---|:---|
+| **Web** | Full studio in the browser |
+| **Desktop** | Same UI, plus a paired worker for native macOS / Windows apps |
+| **Mobile companion** | Chat, HITL, watch-live, runs and defects against the same API |
+| **Virtual devices** | Agent-driven iOS / Android sessions |
+
+| In the studio | Use it for |
+|:---|:---|
+| Chat · Plan · Live runtime | Explore, author, watch, take control |
+| Tests · Suites · Schedules | Flows, grouping, automations |
+| Defects · Artifacts · Requirements | Issues, evidence, coverage inputs |
+| Memory · Vault · Skills | What the agent remembers, secrets, playbooks |
+| Release Readiness | Gates, coverage heatmap, defect analysis |
+
+Integrations the agent can use: **GitHub, Jira, Linear**, Slack / Teams notify, MCP servers.
 
 ---
 
-## Why teams use Kadeep
+## Why this exists
 
-| Pain | With Kadeep |
+| Without Test Studios | With Test Studios |
 |:---|:---|
-| Manual regression eats sprints | Test Studios explores and runs flows from chat |
-| Only engineers can maintain brittle scripts | Natural-language flows + agent execution |
-| L10n / a11y checked late or never | GTW2 and Axco as continuous specialist lanes |
-| Siloed QA tools | One stack — flagship agent + specialists |
+| Scripts only engineers can keep alive | Chat + natural-language flows the agent runs |
+| Localization, a11y, and a TMS in three tools | GTW, Axco, and test management in one studio |
+| Go / no-go is a meeting | Readiness, coverage, and evidence on the dashboard |
+| QA knowledge lives in someone’s head | Governed memory across app, you, and team |
 
 ---
 
@@ -213,19 +198,16 @@ sequenceDiagram
 
 | | |
 |:---|:---|
-| **Test Studios** | [teststudios.ai](https://teststudios.ai) |
+| **Test Studios** | [studio.kadeep.ai](https://studio.kadeep.ai) |
 | **Company** | [kadeep.ai](https://kadeep.ai) |
-| **Test management** | [app.kadeep.ai](https://app.kadeep.ai) |
-| **Localization** | [gtw2.ai](https://gtw2.ai) |
-| **Accessibility** | [accessibility.kadeep.ai](https://accessibility.kadeep.ai) |
-| **LinkedIn** | [KaDeep AI](https://www.linkedin.com/company/kadeep-ai) |
-| **Blog** | [kadeep.ai/blog](https://kadeep.ai/blog) |
 | **Demo** | [kadeep.ai/demo](https://kadeep.ai/demo) |
+| **Blog** | [kadeep.ai/blog](https://kadeep.ai/blog) |
+| **LinkedIn** | [KaDeep AI](https://www.linkedin.com/company/kadeep-ai) |
 
 <br/>
 
+[![Open Test Studios](https://img.shields.io/badge/Open-studio.kadeep.ai-0a3d62?style=for-the-badge)](https://studio.kadeep.ai)
 [![Book a Demo](https://img.shields.io/badge/Book_a_Demo-Get_access-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
-[![Open Test Studios](https://img.shields.io/badge/Open-Test_Studios-0a3d62?style=for-the-badge)](https://teststudios.ai)
 
 </div>
 
@@ -234,11 +216,11 @@ sequenceDiagram
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a6591,50:0a3d62,100:0d2137&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:7eb8d9,100:d6eaf8&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6591,50:0a3d62,100:0d2137&height=100&section=footer" alt="Kadeep Technologies footer" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a6591,50:0a3d62,100:0d2137&height=90&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:7eb8d9,100:d6eaf8&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6591,50:0a3d62,100:0d2137&height=90&section=footer" alt="Kadeep Technologies footer" width="100%" />
 </picture>
 
-<sub>Kadeep Technologies · © 2025–2026</sub>
+<sub>Kadeep Technologies · Test Studios · © 2025–2026</sub>
 
 </div>
