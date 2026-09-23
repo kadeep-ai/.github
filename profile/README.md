@@ -7,30 +7,29 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/ks-logo-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="../assets/ks-logo-light.svg" />
-  <img src="../assets/ks-logo-dark.svg" alt="Test Studios mark" width="88" height="88" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kadeep-ai/.github/main/profile/ks-logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kadeep-ai/.github/main/profile/ks-logo-light.svg" />
+  <img src="ks-logo-dark.svg" alt="Test Studios logo" width="96" height="96" />
 </picture>
 
 # Kadeep Technologies
 
-**[Test Studios](https://studio.kadeep.ai)** · *Release-ready, on demand*
+### [Test Studios](https://studio.kadeep.ai) — *Release-ready, on demand*
 
-A chat-first QA agent for web, mobile, and desktop — with test management, localization, and accessibility in one studio.
+Talk to a senior QA engineer. It explores your product, writes the flows, runs them on web / mobile / desktop, files the issues, and tells you whether you can ship.
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+for+web%2C+mobile%2C+and+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=0A3D62&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+for+web%2C+mobile%2C+and+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=720&height=40&lines=Chat-first+QA+for+web%2C+mobile%2C+and+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%C2%B7+flow+%C2%B7+run+%C2%B7+file+issues" alt="Test Studios tagline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=740&height=40&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=0A3D62&center=true&vCenter=true&width=740&height=40&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1100&color=4FC3F7&center=true&vCenter=true&width=740&height=40&lines=Chat-first+QA+agent+for+web%2C+mobile+%26+desktop;Test+management+%C2%B7+GTW+%C2%B7+Axco+in+one+studio;Explore+%E2%86%92+flow+%E2%86%92+run+%E2%86%92+evidence+%E2%86%92+go+%2F+no-go" alt="Test Studios typing tagline" />
 </picture>
 
 <br/>
 
-[![Open Test Studios](https://img.shields.io/badge/Open-studio.kadeep.ai-0a3d62?style=for-the-badge)](https://studio.kadeep.ai)
-[![Website](https://img.shields.io/badge/Company-kadeep.ai-1a6591?style=for-the-badge)](https://kadeep.ai)
-[![Demo](https://img.shields.io/badge/Book_a_Demo-Get_access-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
+[![Open Test Studios](https://img.shields.io/badge/Open_product-studio.kadeep.ai-0a3d62?style=for-the-badge)](https://studio.kadeep.ai)
+[![Company](https://img.shields.io/badge/Company-kadeep.ai-1a6591?style=for-the-badge)](https://kadeep.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KaDeep_AI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/kadeep-ai)
 
 <br/>
@@ -38,22 +37,25 @@ A chat-first QA agent for web, mobile, and desktop — with test management, loc
 ![Founded](https://img.shields.io/badge/Founded-2025-0a3d62?style=flat-square)
 ![HQ](https://img.shields.io/badge/HQ-Mumbai-0a3d62?style=flat-square)
 ![Product](https://img.shields.io/badge/Product-Test_Studios-1a6591?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AI--native_QA-4FC3F7?style=flat-square&labelColor=0d2137)
+![Category](https://img.shields.io/badge/Category-Chat--first_QA_agent-4FC3F7?style=flat-square&labelColor=0d2137)
 
 </div>
 
 ---
 
-## What Test Studios is
+## The product
 
-Kadeep Technologies builds **one product**: [Test Studios](https://studio.kadeep.ai).
+Kadeep Technologies builds **one product**: **[Test Studios](https://studio.kadeep.ai)**.
 
-You talk to a senior QA engineer. It explores your web app, iOS / Android build, or desktop app; writes natural-language flows; runs them in a real browser or on a virtual device; files issues; and remembers what it learned — in governed memory (app / you / team) with credentials in a separate vault.
+It is a chat-first QA agent with its own runtimes — Playwright in the browser, virtual iOS / Android devices, and a paired desktop worker. You describe a release goal. The agent explores, authors natural-language flows, executes them, keeps evidence, and files defects.
 
-**GTW** (localization), **Axco** (accessibility), and **test management** are modules in that same workspace — not separate products.
+**Test management**, **GTW** (localization QA), and **Axco** (accessibility) are modules in that same studio — not separate products, not separate logins.
 
-> *“KaDeep helped us move from brittle automations to reliable agents. We finally have confidence in execution quality.”*
-> — **Summit**, Product Manager, Setu
+> *“KaDeep helped us move from brittle automations to reliable agents. We finally have confidence in execution quality, predictable behavior, and clear visibility into why an agent did what it did.”*
+> — **Summit**, Product Manager, Tepla
+
+> *“Testing agent workflows used to be guesswork. KaDeep gave us structured intent, traceable actions, and consistent outcomes.”*
+> — **Anand Vasist**, Product Owner, Zilfo
 
 ---
 
@@ -61,22 +63,22 @@ You talk to a senior QA engineer. It explores your web app, iOS / Android build,
 
 ```mermaid
 flowchart TB
-  Kadeep[Kadeep Technologies]
+  You[You — chat a release goal]
   TS[Test Studios]
 
-  Kadeep --> TS
+  You --> TS
 
-  TS --> Agent[Chat agent]
+  TS --> Agent[Chat agent + skills]
   TS --> TM[Test Management]
-  TS --> GTW[GTW]
-  TS --> Axco[Axco]
+  TS --> GTW[GTW · localization]
+  TS --> Axco[Axco · accessibility]
 
   Agent --> Web[Web · Playwright]
-  Agent --> Mobile[Mobile · Appetize]
-  Agent --> Desktop[Desktop worker]
+  Agent --> Mobile[iOS / Android · Appetize]
+  Agent --> Desk[Desktop worker]
 ```
 
-One conversation. One runtime. One system of record.
+**One conversation. One runtime. One system of record.**
 
 ---
 
@@ -85,25 +87,25 @@ One conversation. One runtime. One system of record.
 ```mermaid
 sequenceDiagram
     autonumber
-    participant Team
+    participant You
     participant Agent as Chat agent
-    participant Runtime as Browser / device / desktop
-    participant Modules as GTW / Axco
+    participant Runtime as Web / device / desktop
+    participant Spec as GTW / Axco
     participant TM as Test Management
 
-    Team->>Agent: State a release goal
-    Agent->>Runtime: Explore the product
+    You->>Agent: State what must be true to ship
+    Agent->>Runtime: Explore and map the product
     Agent->>Agent: Author natural-language flows
-    Agent->>Runtime: Execute flows and collect evidence
-    Agent->>Modules: Localization or a11y when the goal needs it
-    Modules-->>Agent: Findings
-    Agent->>TM: File issues · update suites · readiness
-    TM-->>Team: Coverage, defects, go / no-go
+    Agent->>Runtime: Execute · capture evidence
+    Agent->>Spec: Locale or WCAG pass when the goal needs it
+    Spec-->>Agent: Findings
+    Agent->>TM: Issues · suites · readiness
+    TM-->>You: Coverage, defects, go / no-go
 ```
 
 ---
 
-## What’s inside
+## What’s inside Test Studios
 
 <table>
 <tr>
@@ -111,22 +113,24 @@ sequenceDiagram
 
 ### Chat agent
 
-The lead surface. Skills-based QA (smoke, regression, explore, mobile, desktop, and more). Live view of the browser or device. MCP for Cursor / Claude.
+The lead surface. You talk; it behaves like a QA lead — smoke, regression, explore, mobile, desktop, then a numbered summary.
 
-- Natural-language flows and suites
-- Evidence, artifacts, and issue filing
-- Governed memory + credential vault
+- Natural-language flows, suites, and schedules
+- Live view of the browser or device; take control when needed
+- Governed memory (app / you / team) and a credential vault
+- MCP for Cursor / Claude (`flows`, `suites`, `runs`, `issues`)
 
 </td>
 <td width="50%" valign="top">
 
 ### Test Management
 
-Flows, suites, schedules, and hooks as first-class objects — plus a project release dashboard.
+The system of record for the work the agent just did — not a second product to log into.
 
-- Execution, coverage, and defect ageing
-- Release readiness and gate checks
-- Export toward TestRail / Xray formats
+- Flows, suites, hooks, and automations
+- Release readiness, gates, coverage heatmap
+- Defect ageing, leakage view, go / no-go
+- Export toward TestRail CSV / Xray JSON
 
 </td>
 </tr>
@@ -135,22 +139,24 @@ Flows, suites, schedules, and hooks as first-class objects — plus a project re
 
 ### GTW — localization
 
-Locale, language, RTL, and formatting QA from the same agent — on device and in product journeys.
+Locale QA from the same agent: language, RTL, layout, and formatting — on journeys and on device.
 
-- Untranslated and truncated strings
-- RTL mirroring and layout collisions
+- Untranslated strings and clipped labels
+- RTL mirroring and overlapping UI
 - Dates, currency, and number formats
+- Visual evidence per language, filed as defects
 
 </td>
 <td width="50%" valign="top">
 
 ### Axco — accessibility
 
-WCAG-oriented checks with axe, plus keyboard-only journeys on the real UI.
+WCAG-oriented QA on the real UI, every time you ask — not a one-off launch audit.
 
-- Rule-mapped defects with impact
-- Focus, labels, headings, and traps
-- Mobile hierarchy review when on-device
+- axe scans with impact-mapped issues
+- Keyboard-only journeys (focus, labels, traps)
+- Heading / name / contrast defects you can ship a sprint from
+- Mobile hierarchy review when the run is on-device
 
 </td>
 </tr>
@@ -160,35 +166,70 @@ WCAG-oriented checks with axe, plus keyboard-only journeys on the real UI.
 
 ## Workspace
 
-A tester **3-pane** layout: project and skills on the left, chat / plan in the middle, live runtime and evidence on the right. Managers get a QA release dashboard on the same project.
+The tester layout is three panes. Managers see the same project as a release dashboard.
 
-| Surface | What it is |
+```
+┌────────────────┬────────────────────────┬─────────────────────┐
+│ Project        │  Chat / plan           │  Live runtime       │
+│ Skills · tests │  Explore · author      │  Browser / device   │
+│ Memory · vault │  Run · take control    │  Evidence · artifacts│
+└────────────────┴────────────────────────┴─────────────────────┘
+```
+
+| You work on | What it is |
 |:---|:---|
-| **Web** | Full studio in the browser |
-| **Desktop** | Same UI, plus a paired worker for native macOS / Windows apps |
-| **Mobile companion** | Chat, HITL, watch-live, runs and defects against the same API |
+| **Web** | Full studio in the browser — [studio.kadeep.ai](https://studio.kadeep.ai) |
+| **Desktop app** | Same UI, plus a paired worker for native macOS / Linux apps |
+| **Mobile companion** | Chat, approvals, watch-live, runs and defects — nothing executes on the phone |
 | **Virtual devices** | Agent-driven iOS / Android sessions |
 
-| In the studio | Use it for |
+| In the studio | For |
 |:---|:---|
 | Chat · Plan · Live runtime | Explore, author, watch, take control |
-| Tests · Suites · Schedules | Flows, grouping, automations |
-| Defects · Artifacts · Requirements | Issues, evidence, coverage inputs |
-| Memory · Vault · Skills | What the agent remembers, secrets, playbooks |
-| Release Readiness | Gates, coverage heatmap, defect analysis |
+| Tests · Suites · Schedules | Flows, grouping, nightly / interval automations |
+| Defects · Artifacts · Requirements | Issues, proof, coverage inputs |
+| Memory · Vault · Skills | What it remembers, secrets, playbooks |
+| Release Readiness | Gates, heatmap, defect mix, go / no-go |
 
-Integrations the agent can use: **GitHub, Jira, Linear**, Slack / Teams notify, MCP servers.
+---
+
+## Who opens Test Studios
+
+| If you… | You use it to… |
+|:---|:---|
+| Own quality on a release | Chat the goal, get flows + evidence + a go / no-go |
+| Are a PM or BA, not a SDET | Describe journeys in language; skip Selenium |
+| Ship web + iOS / Android | Run the same intent across surfaces and catch parity gaps |
+| Care about new locales | Ask GTW — strings, RTL, layout — without a second tool |
+| Need WCAG on every cut | Ask Axco — axe + keyboard — in the same run |
+| Live in GitHub / Jira / Linear | File and sync defects where the team already works |
 
 ---
 
 ## Why this exists
 
-| Without Test Studios | With Test Studios |
+| The usual stack | Test Studios |
 |:---|:---|
-| Scripts only engineers can keep alive | Chat + natural-language flows the agent runs |
-| Localization, a11y, and a TMS in three tools | GTW, Axco, and test management in one studio |
+| Scripts only an SDET can keep alive | Chat + flows the agent runs and heals against the live UI |
+| TMS, l10n crawler, a11y scanner, device farm | One studio — test management, GTW, Axco, runtimes |
 | Go / no-go is a meeting | Readiness, coverage, and evidence on the dashboard |
-| QA knowledge lives in someone’s head | Governed memory across app, you, and team |
+| Context lives in Slack and someone’s head | Governed memory across app, you, and team |
+
+---
+
+## Stack
+
+<div align="center">
+
+![Playwright](https://img.shields.io/badge/Browser-Playwright-2ea44f?style=flat-square&logo=playwright&logoColor=white)
+![Appetize](https://img.shields.io/badge/Mobile-Appetize-4FC3F7?style=flat-square&labelColor=0d2137)
+![MCP](https://img.shields.io/badge/MCP-Cursor_%2F_Claude-1a6591?style=flat-square)
+![GitHub](https://img.shields.io/badge/Tickets-GitHub-181717?style=flat-square&logo=github)
+![Jira](https://img.shields.io/badge/Tickets-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Tickets-Linear-5E6AD2?style=flat-square)
+![Slack](https://img.shields.io/badge/Notify-Slack_%2F_Teams-0a3d62?style=flat-square)
+
+</div>
 
 ---
 
@@ -198,16 +239,16 @@ Integrations the agent can use: **GitHub, Jira, Linear**, Slack / Teams notify, 
 
 | | |
 |:---|:---|
-| **Test Studios** | [studio.kadeep.ai](https://studio.kadeep.ai) |
+| **Product** | [studio.kadeep.ai](https://studio.kadeep.ai) |
 | **Company** | [kadeep.ai](https://kadeep.ai) |
-| **Demo** | [kadeep.ai/demo](https://kadeep.ai/demo) |
 | **Blog** | [kadeep.ai/blog](https://kadeep.ai/blog) |
 | **LinkedIn** | [KaDeep AI](https://www.linkedin.com/company/kadeep-ai) |
+| **HQ** | Vikhroli West, Mumbai |
 
 <br/>
 
 [![Open Test Studios](https://img.shields.io/badge/Open-studio.kadeep.ai-0a3d62?style=for-the-badge)](https://studio.kadeep.ai)
-[![Book a Demo](https://img.shields.io/badge/Book_a_Demo-Get_access-e74c3c?style=for-the-badge)](https://kadeep.ai/demo)
+[![Company site](https://img.shields.io/badge/Company-kadeep.ai-1a6591?style=for-the-badge)](https://kadeep.ai)
 
 </div>
 
@@ -221,6 +262,6 @@ Integrations the agent can use: **GitHub, Jira, Linear**, Slack / Teams notify, 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6591,50:0a3d62,100:0d2137&height=90&section=footer" alt="Kadeep Technologies footer" width="100%" />
 </picture>
 
-<sub>Kadeep Technologies · Test Studios · © 2025–2026</sub>
+<sub>Kadeep Technologies · Test Studios · © 2025–2026 · Mumbai</sub>
 
 </div>
