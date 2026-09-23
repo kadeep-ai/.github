@@ -34,6 +34,7 @@ Talk to a senior QA engineer. It explores your product, writes the flows, runs t
 
 <br/>
 
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 ![Founded](https://img.shields.io/badge/Founded-2025-0a3d62?style=flat-square)
 ![HQ](https://img.shields.io/badge/HQ-Mumbai-0a3d62?style=flat-square)
 ![Product](https://img.shields.io/badge/Product-Test_Studios-1a6591?style=flat-square)
@@ -79,6 +80,20 @@ flowchart TB
 ```
 
 **One conversation. One runtime. One system of record.**
+
+---
+
+## Release loop
+
+```mermaid
+flowchart LR
+  Goal[Goal] --> Explore[Explore]
+  Explore --> Flows[Author flows]
+  Flows --> Run[Run]
+  Run --> Spec[GTW / Axco]
+  Spec --> Dash[Dashboard]
+  Dash --> Signal[Go / No-Go]
+```
 
 ---
 
@@ -162,18 +177,47 @@ WCAG-oriented QA on the real UI, every time you ask — not a one-off launch aud
 </tr>
 </table>
 
+### Skills the agent can run
+
+<div align="center">
+
+![Smoke](https://img.shields.io/badge/Smoke-0a3d62?style=flat-square)
+![Sanity](https://img.shields.io/badge/Sanity-0a3d62?style=flat-square)
+![Regression](https://img.shields.io/badge/Regression-0a3d62?style=flat-square)
+![Explore](https://img.shields.io/badge/Explore-1a6591?style=flat-square)
+![Mobile](https://img.shields.io/badge/Mobile-1a6591?style=flat-square)
+![Desktop](https://img.shields.io/badge/Desktop-1a6591?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility-4FC3F7?style=flat-square&labelColor=0d2137)
+![Localization](https://img.shields.io/badge/Localization-4FC3F7?style=flat-square&labelColor=0d2137)
+![Performance](https://img.shields.io/badge/Performance-0a3d62?style=flat-square)
+![Security](https://img.shields.io/badge/Security_basics-0a3d62?style=flat-square)
+
+</div>
+
 ---
 
-## Workspace
+## Workspace — studio at a glance
 
 The tester layout is three panes. Managers see the same project as a release dashboard.
 
-```
-┌────────────────┬────────────────────────┬─────────────────────┐
-│ Project        │  Chat / plan           │  Live runtime       │
-│ Skills · tests │  Explore · author      │  Browser / device   │
-│ Memory · vault │  Run · take control    │  Evidence · artifacts│
-└────────────────┴────────────────────────┴─────────────────────┘
+```mermaid
+flowchart LR
+  subgraph Left[Left pane]
+    Proj[Project]
+    Skills[Skills · tests]
+    Mem[Memory · vault]
+  end
+  subgraph Mid[Center]
+    Chat[Chat / plan]
+  end
+  subgraph Right[Right pane]
+    Live[Live runtime]
+    Ev[Evidence · artifacts]
+  end
+  Chat --> Live
+  Live --> Ev
+  Proj --> Chat
+  Skills --> Chat
 ```
 
 | You work on | What it is |
@@ -210,7 +254,7 @@ The tester layout is three panes. Managers see the same project as a release das
 
 | The usual stack | Test Studios |
 |:---|:---|
-| Scripts only an SDET can keep alive | Chat + flows the agent runs and heals against the live UI |
+| Scripts only an SDET can keep alive | Chat + natural-language flows the agent runs on the live UI |
 | TMS, l10n crawler, a11y scanner, device farm | One studio — test management, GTW, Axco, runtimes |
 | Go / no-go is a meeting | Readiness, coverage, and evidence on the dashboard |
 | Context lives in Slack and someone’s head | Governed memory across app, you, and team |
